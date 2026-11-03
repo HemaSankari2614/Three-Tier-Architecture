@@ -49,4 +49,4 @@ This project serves as a learning reference for implementing Three-Tier Architec
 
 ---
 
-💖 **Developed for learning and practicing layered application development.**
+🎯 **Developed for learning and practicing layered application development.**
